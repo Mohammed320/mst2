@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const fs = require('fs'); 
-client = new Discord.Client();
+const client = new Discord.Client();
 
 client.on('ready', () => {
   console.log(`Welcome Bro ${client.user.tag}!`);
