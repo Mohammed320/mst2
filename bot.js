@@ -9,8 +9,8 @@ client.user.setPresence({
   game: { 
      type: 0,
      name: 'Im better by myself..',
-     details: `Smile`,
-     state: 'Im used to the pain', 
+     details: `Smile..Hope`,
+     state: 'used to the pain', 
     application_id: '626146017472937994',
         smallImageKey: '',
         smallImageText: '',
